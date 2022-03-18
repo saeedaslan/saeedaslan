@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saeedaslan
 - 👀 I’m interested in Devops
 - 🌱 I’m currently learning devops
-- 💞️ I’m looking to collaborate on any Devops project
+- 💞️ I am looking for an internship in any Devops project
 - 📫 How to reach me saeed.aslan92@gmail.com
 
 <!---
